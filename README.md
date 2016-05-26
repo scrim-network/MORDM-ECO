@@ -17,7 +17,7 @@ This code requires:
 - C++ _(multi-objective optimization)_
 - R _(visualizing output)_
 
-The files on this repository include only the main data, files with output policy vectors, time evolution of phosphorus states, and other small files. Larger files will be uploaded in the future.
+The files on this repository include only the main data, files with output policy vectors, time evolution of phosphorus states, and other small files. Github doesn't support files exceeding 100 MB.
 
 A number of code files need the parallel version of BORG to execute while other files are independent of BORG as they just post-process the output from BORG.  In addition, users may have to make minor edits such as changing the file paths.
 
